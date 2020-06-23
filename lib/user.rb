@@ -6,3 +6,4 @@ class User
     @first_name = frist_name
     @last_name = last_name
   end
+end
